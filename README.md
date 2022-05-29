@@ -10,7 +10,7 @@ Specifically made for codm .
 
 ## Files To Download
 You have to download 2 files in total . first one the main binary executable and
-second one is the extansion file for the Dumper .
+second one is the extansion (yes , it's extansion) file for the Dumper .
  * CodDumper.so
  * extansion.p0k0
 
