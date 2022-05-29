@@ -20,10 +20,15 @@ So don't expect to use this on Windows !
 It may work on other Linux systems though .
 
 ## How to use
-Download the ---
-   ** CodDumper.so
-   ** extansion.p0k0
+Download the both ---
+   * CodDumper.so
+   * extansion.p0k0
 file or , simply clone the repository .
+After downloading/cloning you have to execute the 'CodDumper.so' . in order to
+do that you have to basically follow 2 steps 
+  * give 777 (chmod +x) permission to the executable binary 
+  * Executive it
+Yes !!! That's all .
 * ###Termux
 
 * ###MT Manager
