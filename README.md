@@ -21,13 +21,13 @@ It may work on other Linux systems though .
 
 ## How to use
 Download the both ---
-   * CodDumper.so
-   * extansion.p0k0
+   1) CodDumper.so
+   2) extansion.p0k0
 file or , simply clone the repository .
 After downloading/cloning you have to execute the 'CodDumper.so' . in order to
-do that you have to basically follow 2 steps 
-  * give 777 (chmod +x) permission to the executable binary 
-  * Executive it
+do that , you have to basically follow 2 steps 
+  1) give 777 (chmod +x) permission to the executable binary 
+  2) Executive it
 Yes !!! That's all .
 * ###Termux
 
