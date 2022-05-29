@@ -9,12 +9,22 @@ Specifically made for codm .
 3) x86 not supported
 
 ## Files To Download
-You have to download 2 files in total
+You have to download 2 files in total . first one the main binary executable and
+second one is the extansion file for the Dumper .
  * CodDumper.so
  * extansion.p0k0
+
+## Made With | Environment
+I've made this dumper originally in android (posix , unix based)
+So don't expect to use this on Windows ! 
+It may work on other Linux systems though .
+
 ## How to use
+Download the ---
+   ** CodDumper.so
+   ** extansion.p0k0
+file or , simply clone the repository .
+* ###Termux
 
-* Termux
-
-* MT Manager
+* ###MT Manager
 
