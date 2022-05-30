@@ -60,3 +60,11 @@ Just remember these 3 steps before going below 👇
   > Command : cd /data/user/0/pkg.name/
   * * Run the Dumper , and you'll know how to use it !
   > Command : ./CodDumper.so
+
+# Direct Download 
+[Release V1.2.4](https://github.com/Poko-Apps/CodMDumper/releases/download/v1.2.4/)
+[Download Link](https://github.com/Poko-Apps/CodMDumper/releases/download/v1.2.4/CodDumper.zip)
+
+# Communication
+ * [Discord]()
+ * [Email]()
