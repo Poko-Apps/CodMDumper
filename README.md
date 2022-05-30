@@ -24,9 +24,9 @@ So don't expect to use this on Windows !
 It may work on other Linux systems though .
 
 # How to use
-After downloading/cloning the repo , you can execute the **CodDumper.so** in any
+After downloading the release version , you can execute the **CodDumper.so** in any
 Terminal of android (or Linux based systems) ! I'll guide you how to use them in most popular terminal
-of android called ***Termux*** . and I'll guide to how to Run it in one of most popular file manager called ***MT manager*** 's terminal too !
+of android called ***Termux*** . and I'll guide you how to Run it in one of most popular file manager called ***MT manager*** 's terminal too !
 
 Just remember these 3 steps before going below 👇
 1) make sure **CodDumper.so** and **extansion.p0k0** present in the same directory !
@@ -36,12 +36,12 @@ Just remember these 3 steps before going below 👇
 * **Termux**
   * Open termux , give storage permission if you haven't 
   > Command : termux-setup-storage
-  * Clone the repo **or** download the repo !
-  * Make sure downloaded file's are in Termux ***$HOME*** directory !
-  * Go to where the **CodDumper.so** downloaded (must be in termux's data directory or $HOME directory)
+  * download the Release version's and extract it !
+  * Make sure extracted file's are in Termux ***$HOME*** directory !
+  * Go to where the **CodDumper.so** is (must be in termux's data directory or $HOME directory)
   * Give executable permission !
   > Command : chmod +x CodDumper.so
-  * Run the Dumper , and you'll know how to give use it !
+  * Run the Dumper , and you'll know how to use it !
   > Command : ./CodDumper.so
 
 * **MT Manager**
