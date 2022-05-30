@@ -25,7 +25,9 @@ So don't expect to use this on Windows !
 It may work on other Linux systems though .
 
 # Features
-- Inbuilt Elf Fixer ! <img src="elf_fixer_img.jpg" width="370" height= "70"/>
+
+- Inbuilt Elf Fixer ! 
+> <img src="elf_fixer_img.jpg" width="370" height= "70"/>
 - generate **'dump.cs'** !
 - for better analysis, generate
     * **'IDA.json' & 'ida.py'**
@@ -75,5 +77,5 @@ Just remember these 3 steps before going below 👇
 * [Direct Link](https://github.com/Poko-Apps/CodMDumper/releases/download/v1.2.4/CodDumper.zip)
 
 # Communication
- * [Discord]()
+ * [Discord](https://discord.gg/XxBYZztJdE)
  * bisbaas89@gmail.com
