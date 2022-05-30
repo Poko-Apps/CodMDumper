@@ -30,11 +30,19 @@ of android called ***Termux*** . and I'll guide to how to Run it in one of most 
 
 Just remember these 3 steps before going below 👇
 1) make sure **CodDumper.so** and **extansion.p0k0** present in the same directory !
-2) give execute permission to the **CodDumper.so** !
+2) give execute permission (777) to the **CodDumper.so** !
 3) finally, run it !
 
 * **Termux**
-  * 
+  * Open termux , give storage permission if you haven't 
+  > Command : termux-setup-storage
+  * Clone the repo **or** download the repo !
+  * Make sure downloaded file's are in Termux ***$HOME*** directory !
+  * Go to where the **CodDumper.so** downloaded (must be in termux's data directory or $HOME directory)
+  * Give executable permission !
+  > Command : chmod +x CodDumper.so
+  * Run the Dumper , and you'll know how to give use it !
+  > Command : ./CodDumper.so
 
 * **MT Manager**
 
