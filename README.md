@@ -61,10 +61,10 @@ Just remember these 3 steps before going below 👇
   * * Run the Dumper , and you'll know how to use it !
   > Command : ./CodDumper.so
 
-# Direct Download 
-[Release V1.2.4](https://github.com/Poko-Apps/CodMDumper/releases/download/v1.2.4/)
-[Download Link](https://github.com/Poko-Apps/CodMDumper/releases/download/v1.2.4/CodDumper.zip)
+# Download 
+* [Release V1.2.4](https://github.com/Poko-Apps/CodMDumper/releases/download/v1.2.4/)
+* [Direct Link](https://github.com/Poko-Apps/CodMDumper/releases/download/v1.2.4/CodDumper.zip)
 
 # Communication
  * [Discord]()
- * [Email]()
+ * bisbaas89@gmail.com
