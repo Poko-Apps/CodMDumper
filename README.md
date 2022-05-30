@@ -23,6 +23,10 @@ I've made this dumper originally in android (posix , unix based)
 So don't expect to use this on Windows ! 
 It may work on other Linux systems though .
 
+# Important
+1) you have to use memory dumepd il2cpp.so (GG might work)
+2) yes !! Original ***global-metadata.dat*** will work properly (if not then dump it from the memory)
+
 # How to use
 After downloading the release version , you can execute the **CodDumper.so** in any
 Terminal of android (or Linux based systems) ! I'll guide you how to use them in most popular terminal
