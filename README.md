@@ -1,8 +1,10 @@
 
 # About CodDumper
+<img src="preview_img.jpg" width="350" height= "380"/>
+
 This is CodMDumper (Call Of Duty Mobile Dumper) that can dump libil2cpp.so of call of duty mobile.
 Specifically made for codm .
-<img src="preview_img.jpg" width="350" height= "380"/>
+
 ## Supported Versions
 1) Almost All CodM version Including Most popular Global, Garena, VNG, KR. 
 2) 32bit (armeabi-v7a) & 64bit (arm64-v8a) supported.
