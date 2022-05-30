@@ -2,7 +2,7 @@
 # About CodDumper
 This is CodMDumper (Call Of Duty Mobile Dumper) that can dump libil2cpp.so of call of duty mobile.
 Specifically made for codm .
-
+<img src="preview_img.jpg" width="350" height= "380"/>
 ## Supported Versions
 1) Almost All CodM version Including Most popular Global, Garena, VNG, KR. 
 2) 32bit (armeabi-v7a) & 64bit (arm64-v8a) supported.
@@ -23,11 +23,11 @@ So don't expect to use this on Windows !
 It may work on other Linux systems though .
 
 # Features
- 1) Inbuilt Elf Fixer !
- * Pic
- 2) generate **'dump.cs'**
- 3) for better analysis
-  * **'IDA.json' & 'ida.py'**
+ 1. Inbuilt Elf Fixer !
+ <img src="elf_fixer_img.jpg" width="370" height= "70"/>
+ 2. generate **'dump.cs'** !
+ 3. for better analysis, generate
+    **'IDA.json' & 'ida.py'**
 
 # Important
 1) you have to use memory dumepd il2cpp.so (GG might work)
