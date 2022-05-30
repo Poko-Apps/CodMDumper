@@ -50,8 +50,8 @@ Just remember these 3 steps before going below 👇
   * Open MT manager , then find the package name of the Mt manager !(eg: **'bin.mt.plus'**)
   > Note : look 'Android/data/' directory for the pkg name!
   * move both **CodDumper.so** and **extansion.p0k0** to data directory of MT manager! 
-  > Path : **'/data/user/0/pkg.name/'**
-  > Eg . : **'/data/user/0/bin.mt.plus/'**
+  * > Path : **'/data/user/0/pkg.name/'**
+  * > Eg . : **'/data/user/0/bin.mt.plus/'**
   * Then, give 777 permission to the ***CodDumper.so***
   > Long press to the executable file -> property -> permission (modify) -> check all (except last bottom row)
   * Then open the terminal !
