@@ -9,11 +9,10 @@ Specifically made for codm .
 3) x86 not supported
 
 ## Files To Download
-You have to download 2 files in total . first one the main binary executable and
+You have to download the ***.zip*** file from release section. Zip have 2 files !! first one is the main binary executable and
 second one is the extansion (yes , it's extansion) file for the Dumper .
  * CodDumper.so
  * extansion.p0k0
-
 ## Requirements
 Nothing but a Android device with Termux or MT manager installed !
 1. (Note : you can use any other terminal too as well as any other Linux based system too !)
@@ -28,7 +27,7 @@ It may work on other Linux systems though .
 2) yes !! Original ***global-metadata.dat*** will work properly (if not then dump it from the memory)
 
 # How to use
-After downloading the release version , you can execute the **CodDumper.so** in any
+After downloading the release ***'.zip'*** and extracting it , you can execute the **CodDumper.so** in any
 Terminal of android (or Linux based systems) ! I'll guide you how to use them in most popular terminal
 of android called ***Termux*** . and I'll guide you how to Run it in one of most popular file manager called ***MT manager*** 's terminal too !
 
@@ -40,7 +39,6 @@ Just remember these 3 steps before going below 👇
 * **Termux**
   * Open termux , give storage permission if you haven't 
   > Command : termux-setup-storage
-  * download the Release version's and extract it !
   * Make sure extracted file's are in Termux ***$HOME*** directory !
   * Go to where the **CodDumper.so** is (must be in termux's data directory or $HOME directory)
   * Give executable permission !
