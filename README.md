@@ -52,3 +52,11 @@ Just remember these 3 steps before going below 👇
   * move both **CodDumper.so** and **extansion.p0k0** to data directory of MT manager! 
   > Path : **'/data/user/0/pkg.name/'**
   > Eg . : **'/data/user/0/bin.mt.plus/'**
+  * Then, give 777 permission to the ***CodDumper.so***
+  > Long press to the executable file -> property -> permission (modify) -> check all (except last bottom row)
+  * Then open the terminal !
+  > Click on Top-Left (3 line) -> Terminal Simulator
+  * Change the working directory to MT manager's data directory
+  > Command : cd /data/user/0/pkg.name/
+  * * Run the Dumper , and you'll know how to use it !
+  > Command : ./CodDumper.so
