@@ -1,6 +1,6 @@
 
 # About CodDumper
-This is CodMDumper (Call Of Duty Dumper) that can dump libil2cpp.so of call of duty mobile.
+This is CodMDumper (Call Of Duty Mobile Dumper) that can dump libil2cpp.so of call of duty mobile.
 Specifically made for codm .
 
 ## Supported Versions
@@ -14,20 +14,22 @@ second one is the extansion (yes , it's extansion) file for the Dumper .
  * CodDumper.so
  * extansion.p0k0
 
+## Requirements
+Nothing but a Android device with Termux or MT manager installed !
+1. (Note : you can use any other terminal too as well as any other Linux based system too !)
+
 ## Made With | Environment
 I've made this dumper originally in android (posix , unix based)
 So don't expect to use this on Windows ! 
 It may work on other Linux systems though .
 
-## How to use
-Download the both - CodDumper.so , extansion.p0k0
-file or , simply clone the repository .
-After downloading/cloning you have to execute the 'CodDumper.so' . in order to
-do that , you have to basically follow 2 steps 
-  (1) give 777 (chmod +x) permission to the executable binary 
-  (2) Executive it
-Yes !!! That's all .
-* ###Termux
+# How to use
+After downloading/cloning the repo , you can execute the 'CodDumper.so' in any
+Terminal of android (or Linux based systems) ! I'll guide you how to use them in most popular terminal
+of android called Termux . and I'll guide to how to Run it in one of most popular file manager called MT manager 's terminal !
 
-* ###MT Manager
+Just remember these 3 steps before going below 👇
+* Termux
+
+* MT Manager
 
