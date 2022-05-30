@@ -73,7 +73,7 @@ Just remember these 3 steps before going below 👇
   > Command : ./CodDumper.so
 
 # Download 
-* [Release V1.2.4](https://github.com/Poko-Apps/CodMDumper/releases/download/v1.2.4/)
+* [Release V1.2.4](https://github.com/Poko-Apps/CodMDumper/releases/tag/v1.2.4)
 * [Direct Link](https://github.com/Poko-Apps/CodMDumper/releases/download/v1.2.4/CodDumper.zip)
 
 # Communication
