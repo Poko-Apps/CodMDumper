@@ -23,11 +23,11 @@ So don't expect to use this on Windows !
 It may work on other Linux systems though .
 
 # Features
- 1. Inbuilt Elf Fixer !
- <img src="elf_fixer_img.jpg" width="370" height= "70"/>
- 2. generate **'dump.cs'** !
- 3. for better analysis, generate
-    **'IDA.json' & 'ida.py'**
+- Inbuilt Elf Fixer ! <img src="elf_fixer_img.jpg" width="370" height= "70"/>
+- generate **'dump.cs'** !
+- for better analysis, generate
+    * **'IDA.json' & 'ida.py'**
+- can dump with original metadata & memory dumped lib
 
 # Important
 1) you have to use memory dumepd il2cpp.so (GG might work)
