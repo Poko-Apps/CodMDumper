@@ -69,7 +69,7 @@ Just remember these 3 steps before going below 👇
   > Click on Top-Left (3 line) -> Terminal Simulator
   * Change the working directory to MT manager's data directory
   > Command : cd /data/user/0/pkg.name/
-  * * Run the Dumper , and you'll know how to use it !
+  * Run the Dumper , and you'll know how to use it !
   > Command : ./CodDumper.so
 
 * [Video Tutorial](https://youtu.be/FGskaX7HCIo)
