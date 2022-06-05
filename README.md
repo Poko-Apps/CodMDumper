@@ -79,5 +79,4 @@ Just remember these 3 steps before going below 👇
 * [Direct Link](https://github.com/Poko-Apps/CodMDumper/releases/download/v1.2.4/CodDumper.zip)
 
 # Communication
- * [Discord](https://discord.gg/XxBYZztJdE)
  * bisbaas89@gmail.com
