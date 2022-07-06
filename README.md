@@ -1,4 +1,4 @@
-
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 # About CodDumper
 <img src="preview_img.jpg" width="350" height= "380"/>
 
